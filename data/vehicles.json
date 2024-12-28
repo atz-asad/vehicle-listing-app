@@ -1,0 +1,20 @@
+[
+    {
+        "name": "KTM DUKE v3",
+        "type": "BIKE",
+        "price": "982747214",
+        "image": "https:\/\/cdn.bikedekho.com\/processedimages\/ktm\/2023-200-duke\/source\/2023-200-duke6710a8cadf221.jpg"
+    },
+    {
+        "name": "R!5",
+        "type": "BIKE",
+        "price": "8174914",
+        "image": "https:\/\/cdn.bikedekho.com\/processedimages\/yamaha\/r15-v4\/source\/r15-v466e5433ef20f5.jpg"
+    },
+    {
+        "name": "TOYOTA",
+        "type": "car",
+        "price": "929125",
+        "image": "https:\/\/cdn.motor1.com\/images\/mgl\/koBe6e\/s1\/2024-toyota-gr86-trueno-edition.jpg"
+    }
+]
